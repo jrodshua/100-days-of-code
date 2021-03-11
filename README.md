@@ -18,3 +18,13 @@ If you're interested, follow my 100 day journey. Alternatively, you can follow m
 **Link(s) to work**
 1. [Personal Portfolio Repo](https://github.com/jrodshua/minimal-gatsby-portfolio)
 2. [Portfolio Site (build linked to repo above)](https://www.jrodshua.com/)
+
+
+### Day 2: March 10, Wednesday
+
+**Today's Progress**: Confession, I did not code/work on any projects today. Instead, I did some self learning.
+
+**Thoughts**: I spent my day self learning, watching and coding along a frontend masters next.js tutorial and reading up on ui/design systems. Tomorrow, I'll get back to working on my portfolio & starting a new project I had an idea for.
+
+**Link(s) to work**
+none
